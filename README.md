@@ -1,2 +1,2 @@
 # Lab_program_3.1
-Functions on array.
+This is a functions on array.
